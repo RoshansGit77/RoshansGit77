@@ -1,4 +1,4 @@
-<h1 align="center">## Hi 👋, I'm Roshan Dhote  </h1> 
+<h1 align="center"> Hi 👋, I'm Roshan Dhote  </h1> 
   
 A passionate Java developer with expertise in both back-end and front-end development. I thrive on building robust applications, solving challenging problems, and continuously improving my skills. With a deep understanding of Java, Spring Boot, Hibernate, and databases like MySQL, I enjoy creating full-stack solutions that offer seamless user experiences.
 
