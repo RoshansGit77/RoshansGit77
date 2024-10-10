@@ -14,8 +14,8 @@ I believe in the power of knowledge-sharing and love connecting with like-minded
 - Exploring advanced **Spring** and **Microservices architecture**.
 
 ### 📫 Get in Touch:
-- Connect with me on [LinkedIn:](https://www.linkedin.com/in/roshan-dhote)  
-- Check out my projects on [GitHub:](https://github.com/RoshansGit77)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-dhote)  
+- Check out my projects on [GitHub](https://github.com/RoshansGit77)
 
 If you're interested in collaborating on a project or want to discuss coding in Java, feel free to reach out!
 
