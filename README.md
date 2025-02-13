@@ -6,7 +6,7 @@ I believe in the power of knowledge-sharing and love connecting with like-minded
 
 ### 💡 What I Do:
 - **Java Development:** Building scalable back-end solutions using Java, Spring Boot, and Hibernate.
-- **Full Stack Development:** Creating dynamic and user-friendly web applications with JSP, Servlets, and MySQL.
+- **Full Stack Development:** Creating dynamic and user-friendly web applications with JSP, Servlets,Thymeleaf, HTML, CSS, Bootstrap and MySQL.
 - **Problem Solving:** Applying my skills in algorithms and data structures to craft efficient solutions.
   
 ### 🌱 What I'm Learning:
